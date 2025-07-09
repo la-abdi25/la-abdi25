@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Ladan Abdi and I'm a Software Engineer.</p>
+<p align="left">My name is Ladan Abdi and I'm a Full-Stack Software Engineer.</p>
 
 ###
 
