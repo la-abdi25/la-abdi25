@@ -10,8 +10,7 @@
 
 ###
 
-<p align="left">✨ I'm currently building full stack development projects
-<p align="left"> Fun fact: I enjoy painting and swimming during my freetime!</p>
+<p align="left">✨ I'm currently building full stack development projects to enhance technical, problem-solving, and collaboration skills
 
 ###
 
