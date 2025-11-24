@@ -17,15 +17,18 @@
 
 <h2 align="left">My Toolkit:</h2>
 <ol align="left">
-    <li>HTML5</li>
-    <li>CSS3</li>
+    <li>HTML</li>
+    <li>CSS</li>
     <li>JavaScript(ES6+)</li>
     <li>React</li>
     <li>Python</li>
+    <li>Java</li>
+    <li>C/C++</li>
     <li>PostgreSQL</li>
     <li>MongoDB</li>
     <li>Node.js</li>
     <li>Express.js</li>
+    <li>Next.js</li>
 </ol>
 
 ###
