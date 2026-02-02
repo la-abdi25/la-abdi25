@@ -22,7 +22,6 @@
     <li>React</li>
     <li>Python</li>
     <li>Java</li>
-    <li>C/C++</li>
     <li>PostgreSQL</li>
     <li>MongoDB</li>
     <li>Node.js</li>
