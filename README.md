@@ -18,7 +18,7 @@
 <ol align="left">
     <li>HTML</li>
     <li>CSS</li>
-    <li>JavaScript(ES6+)</li>
+    <li>JavaScript/TypeScript</li>
     <li>React</li>
     <li>Python</li>
     <li>Java</li>
@@ -28,6 +28,7 @@
     <li>Node.js</li>
     <li>Express.js</li>
     <li>Next.js</li>
+    <li>AWS S3 & CloudFront</li>
 </ol>
 
 ###
