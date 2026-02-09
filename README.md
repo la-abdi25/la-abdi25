@@ -16,12 +16,12 @@
 
 <h2 align="left">My Toolkit:</h2>
 <ol align="left">
+    <li>Java</li>
+    <li>JavaScript/TypeScript</li>
     <li>HTML</li>
     <li>CSS</li>
-    <li>JavaScript/TypeScript</li>
     <li>React</li>
     <li>Python</li>
-    <li>Java</li>
     <li>PostgreSQL</li>
     <li>MongoDB</li>
     <li>Node.js</li>
@@ -33,6 +33,8 @@
 ###
 
 <div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="50" width="50" alt="java logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" width="50" alt="javascript logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50" width="50" alt="html logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50" width="50" alt="css logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" width="50" alt="javascript logo"  />
