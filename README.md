@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ I'm currently building full stack development projects to enhance technical, problem-solving, and collaboration skills
+<p align="left">✨ I'm currently building full stack development projects to enhance technical, problem-solving, and collaboration skills.
 
 ###
 
